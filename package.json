@@ -1,0 +1,7 @@
+{
+  "name": "is18",
+  "version": "1.0.0",
+  "main": "is18.js",
+  "type": "module",
+  "license": "MIT"
+}
